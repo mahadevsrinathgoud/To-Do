@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # TaskFlow - Todo Manager Web Application
 
 A beautiful and intuitive todo management application built with React, Express, and MySQL.
@@ -73,3 +74,6 @@ npm run server
 ## License
 
 MIT
+=======
+# To-Do
+>>>>>>> 1acfdd3ca1d28080043ebd60f5eae15a3a1091f4
