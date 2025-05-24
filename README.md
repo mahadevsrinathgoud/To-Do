@@ -1,7 +1,11 @@
-<<<<<<< HEAD
+
 # TaskFlow - Todo Manager Web Application
 
 A beautiful and intuitive todo management application built with React, Express, and MySQL.
+
+### Demo
+![image](https://github.com/user-attachments/assets/9dc41f41-8b8c-4489-8170-aa6eabdf17f4)
+
 
 ## Features
 
@@ -26,16 +30,40 @@ A beautiful and intuitive todo management application built with React, Express,
 - Node.js (v14+)
 - MySQL database
 
+### Project Structure
+project/
+  ├── index.html
+  ├── package.json
+  ├── postcss.config.js
+  ├── tailwind.config.js
+  ├── vite.config.ts
+  ├── server/
+  │   └── index.js
+  └── src/
+      ├── App.jsx
+      ├── index.css
+      ├── main.jsx
+      ├── api/
+      │   └── todoApi.jsx
+      ├── components/
+      │   ├── Header.jsx
+      │   ├── TodoFilter.jsx
+      │   ├── TodoForm.jsx
+      │   ├── TodoItem.jsx
+      │   └── TodoList.jsx
+      └── types/
+          └── index.js
+
 ### Installation
 
 1. Clone the repository:
 ```
-git clone https://github.com/yourusername/taskflow.git
-cd taskflow
+git clone https://github.com/mahadevsrinathgoud/To-Do.git
 ```
 
 2. Install dependencies:
 ```
+cd project
 npm install
 ```
 
@@ -71,9 +99,4 @@ npm run server
 - Click on the checkbox to mark a task as complete
 - Use the edit and delete buttons to modify or remove tasks
 
-## License
 
-MIT
-=======
-# To-Do
->>>>>>> 1acfdd3ca1d28080043ebd60f5eae15a3a1091f4
