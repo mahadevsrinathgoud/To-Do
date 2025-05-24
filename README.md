@@ -1,8 +1,7 @@
 
 # TaskFlow - Todo Manager Web Application
 
-A beautiful and intuitive todo management application built with React, Express, and MySQL.
-
+A modern and performant To-Do application built with React , Vite for blazing-fast development, and Tailwind CSS for responsive design, Node.js and MySQL. It features modular architecture, reusable components, and a clean state management approach. This project demonstrates practical usage of modern frontend tooling and best practices in UI development.
 ### Demo
 ![image](https://github.com/user-attachments/assets/9dc41f41-8b8c-4489-8170-aa6eabdf17f4)
 
@@ -18,41 +17,17 @@ A beautiful and intuitive todo management application built with React, Express,
 
 ## Tech Stack
 
-- **Frontend**: React.js, TypeScript, Tailwind CSS, Framer Motion
+- **Frontend**:Html, JavaScript, React.js, Tailwind CSS
 - **Backend**: Express.js, Node.js
 - **Database**: MySQL
-- **Additional**: Axios for API requests, Date-fns for date manipulation
+- **Additional**: Axios for API requests
 
-## Getting Started
 
 ### Prerequisites
 
 - Node.js (v14+)
 - MySQL database
 
-### Project Structure
-project/
-  ├── index.html
-  ├── package.json
-  ├── postcss.config.js
-  ├── tailwind.config.js
-  ├── vite.config.ts
-  ├── server/
-  │   └── index.js
-  └── src/
-      ├── App.jsx
-      ├── index.css
-      ├── main.jsx
-      ├── api/
-      │   └── todoApi.jsx
-      ├── components/
-      │   ├── Header.jsx
-      │   ├── TodoFilter.jsx
-      │   ├── TodoForm.jsx
-      │   ├── TodoItem.jsx
-      │   └── TodoList.jsx
-      └── types/
-          └── index.js
 
 ### Installation
 
