@@ -1,7 +1,7 @@
 
 # TaskFlow - Todo Manager Web Application
 
-A modern and performant To-Do application built with React , Vite for blazing-fast development, and Tailwind CSS for responsive design, Node.js and MySQL. It features modular architecture, reusable components, and a clean state management approach. This project demonstrates practical usage of modern frontend tooling and best practices in UI development.
+A modern and performant To-Do application built with React , Vite for blazing-fast development, Tailwind CSS for responsive design, Node.js and MySQL. It features modular architecture, reusable components, and a clean state management approach. This project demonstrates practical usage of modern frontend tooling and best practices in UI development.
 ### Demo
 ![image](https://github.com/user-attachments/assets/9dc41f41-8b8c-4489-8170-aa6eabdf17f4)
 
